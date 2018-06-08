@@ -1,6 +1,6 @@
-## Arie's Project
+## Arie's Portfolio
 
-Project 4 uses the dog-api to make a webpage that shows dog breeds.
+This portfolio is a collection of the CIT minor requirements as well as Arie's prior work in CIS 110, 111 and CIT 281.
 
 ### Deployment
 
